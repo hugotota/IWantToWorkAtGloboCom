@@ -1,0 +1,31 @@
+Profissional
+ - Dedicado e apaixonado pelo que faz e por isso gostaria de trabalhar em um local onde sua criatividade e entusiasmo sejam valorizados. Além disso tem muita vontade de empregar o melhor de cada linguagem em uma solução e não ficar amarrado a "arquitetura corporativa" da empresa cliente. Sou um dos administradores do RioJUG (http://tech.groups.yahoo.com/group/riojug/) 
+   Estudei um pouco de groovy/grails e ruby/ruby on rails (caelum) mais não pude aplicar na pratica onde trabalho apesar de ter tentado.
+
+Experiência
+ -IBM Brasil - (Atual)
+   Suporte e desenvolvimento de sistemas para o cliente Oi.
+   Tecnologias: shellscript, java, stored procedures (Oracle) e etc.
+
+ -Elumini IT Business and Consulting - (2008 - 2010)
+   Desenvolvimento e análise de sistemas comerciais.
+   Alguns clientes: Bradesco, Souza Cruz, Caçula, Elumini e etc.
+   Tecnologias: java, .net, oracle bpm, webservices e etc.
+
+ -DBA Engenharia de sistemas - (2006 - 2008)
+   Desenvolvimento e análise de sistemas comerciais.
+   Alguns clientes: Caixa, DBA.
+   Tecnologias: java, cobol, webservices e etc.
+
+Tenho experiência em outras áreas de tecnologia como suporte a usuário e servidor que não são mais meu foco.
+
+Sei que isso pode ser irrelevante mais foi importante para minha carreira, possuo certificações técnicas: SCJP, SCWCD e MCP
+
+-Inglês
+  Lê e escreve bem
+  Fala razoavelmente bem
+
+twitter: twitter.com/hugotota 
+facebook: https://www.facebook.com/hugotota#!/profile.php?id=100001433630788
+github: github.com/hugotota
+linkedin: http://br.linkedin.com/in/hugotota
