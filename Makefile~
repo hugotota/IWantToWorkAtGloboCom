@@ -1,0 +1,2 @@
+acme1: 
+	cd acme && ruby arcondicionado.rb
