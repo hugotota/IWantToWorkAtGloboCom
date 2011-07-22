@@ -1,2 +1,2 @@
 arcondicionado.acme: 
-	cd acme && ruby arcondicionado.rb
+		cd acme && ruby arcondicionado.rb
