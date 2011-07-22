@@ -1,2 +1,0 @@
-acme: 
-	ruby arcondicionado.rb
